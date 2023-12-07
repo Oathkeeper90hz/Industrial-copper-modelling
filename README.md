@@ -24,5 +24,6 @@ Special thanks to GUVI Geek Networks and IITM Research Park for their continuous
 Feel free to explore the code, provide feedback, and contribute to the project's development!
 
 For any inquiries, please contact Rajashekhara S Gowda at rajusgowda522000@gmail.com.
+Don't forget to check the demo video in linkedin https://www.linkedin.com/posts/raju-s-gowda-5f2000_industrialmodeling-machinelearning-datascience-activity-7138415617585410050-Rvwb?utm_source=share&utm_medium=member_desktop
 
 Enjoy predicting with the Industrial Copper Modeling Application! 🏭✨
